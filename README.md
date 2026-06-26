@@ -17,8 +17,8 @@ I use AI tooling as a natural part of my workflow, helping me move faster withou
 
 A few highlights:
 
-- 🚀 Played a key role in Kubernetes migration with ArgoCD at Mkplace Technology — **90% faster release cycles, 50% fewer production incidents**
-- 🔍 Built internal error code systems and expanded logging across 10+ microservices, cutting incident resolution by 30%
+- 🚀 Played a key role in Kubernetes migration with ArgoCD at Mkplace Technology, **massively reducing release cycles**
+- 🔍 Built internal error code systems and expanded logging across 10+ microservices, **cutting incident resolution by 30%**
 - 🧪 Achieved **80% reduction in homologation and production errors** through comprehensive Jest + Cypress test suites
 - 🤝 Mentored junior developers and co-led a full end-to-end platform rewrite at a previous role
 
