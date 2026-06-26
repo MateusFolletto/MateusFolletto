@@ -1,20 +1,23 @@
 # Hey, I'm Mateus 👋
 
 **Senior Full Stack Engineer · 6+ years building scalable, cloud-native platforms**
-Based in Brazil 🇧🇷, open to remote opportunities with US & EU teams
+Based in Brazil 🇧🇷, open to remote opportunities with LATAM, US & EU teams
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-folletto-2908971b8/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5551982745483)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateusfolletto@gmail.com)
 
 ---
 
 ## About me
 
-I build and ship production-ready software end-to-end — from API design and microservices architecture to polished UIs. I've led platform migrations to Kubernetes, reduced release cycles by 90%, and designed systems that handle real recurring revenue at scale.
+I build and ship production-ready software end-to-end — from API design and microservices architecture to polished UIs. I've played a key role in platform migrations to Kubernetes, reducing release cycles by 90%, and designed systems that handle real recurring revenue at scale.
 
-I use AI tooling as a natural part of my workflow — Claude, Claude Code, and Nano Banana help me move faster without cutting corners. I care about clean architecture, honest documentation, and building things that actually hold up.
+I use AI tooling as a natural part of my workflow, helping me move faster without cutting corners. I care about clean architecture, honest documentation, and building things that actually hold up, bringing a same pragmatic approach to everything I develop.
 
 A few highlights:
 
-- 🚀 Led Kubernetes migration with ArgoCD at Mkplace Technology — **90% faster release cycles, 50% fewer production incidents**
-- 🧩 Designed and launched Subscriptions & Recurring Purchase services that drove measurable revenue growth
+- 🚀 Played a key role in Kubernetes migration with ArgoCD at Mkplace Technology — **90% faster release cycles, 50% fewer production incidents**
 - 🔍 Built internal error code systems and expanded logging across 10+ microservices, cutting incident resolution by 30%
 - 🧪 Achieved **80% reduction in homologation and production errors** through comprehensive Jest + Cypress test suites
 - 🤝 Mentored junior developers and co-led a full end-to-end platform rewrite at a previous role
@@ -77,6 +80,6 @@ A few highlights:
 
 ## 📬 Let's talk
 
-I'm currently open to new opportunities — remote roles with US or EU teams are my sweet spot.
+I'm currently open to new opportunities — remote roles with LATAM, US or EU teams are my sweet spot.
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mateus-folletto-2908971b8/), [email](mailto:mateusfolletto@gmail.com), or [WhatsApp](https://wa.me/5551982745483).
